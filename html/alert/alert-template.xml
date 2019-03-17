@@ -1,8 +1,0 @@
-<div class="alert bg-light" data-dismiss="true">
-	<h4>...</h4>
-	<p>...</p>
-	<hr />
-	<p>
-		Go: <a href="#">www.example.com</a>
-	</p>
-</div>

@@ -1,8 +1,0 @@
-<input type="checkbox" id="checkbox-1" />
-<label for="checkbox-1">Item 1</label>
-<br />
-<input type="checkbox" id="checkbox-2" />
-<label for="checkbox-2">Item 2</label>
-<br />
-<input type="checkbox" id="checkbox-3" />
-<label for="checkbox-3">Item 3</label>
