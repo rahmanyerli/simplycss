@@ -1,0 +1,44 @@
+<div id="accordion-container">
+	<div class="accordion">
+		<header>
+			<button class="bg-teal" type="button">...</button>
+		</header>
+		<main>
+			<p>...</p>
+		</main>
+	</div>
+	<div class="accordion">
+		<header>
+			<button class="bg-teal" type="button">...</button>
+		</header>
+		<main>
+			<p>...</p>
+		</main>
+	</div>
+	<div class="accordion">
+		<header>
+			<button class="bg-teal" type="button">...</button>
+		</header>
+		<main>
+			<p>...</p>
+		</main>
+	</div>
+</div>
+
+<script>
+import Accordion from 'simply.accordion'
+
+function expandAll() {
+	const accordions = document.querySelectorAll('#accordion-container .accordion')
+	accordions.forEach(accordion => {
+		Accordion.expandAccordion(accordion)
+	})
+}
+
+function collapseAll() {
+	const accordions = document.querySelectorAll('#accordion-container .accordion')
+	accordions.forEach(accordion => {
+		Accordion.collapseAccordion(accordion)
+	})
+}
+</script>

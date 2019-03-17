@@ -1,13 +1,15 @@
 {
-  "main.css": "/simplycss/static/css/main.70db9462.chunk.css",
-  "main.js": "/simplycss/static/js/main.fcd5d998.chunk.js",
-  "main.js.map": "/simplycss/static/js/main.fcd5d998.chunk.js.map",
+  "main.css": "/simplycss/static/css/main.f24f11b7.chunk.css",
+  "main.js": "/simplycss/static/js/main.de435f39.chunk.js",
+  "main.js.map": "/simplycss/static/js/main.de435f39.chunk.js.map",
   "runtime~main.js": "/simplycss/static/js/runtime~main.2c9b0077.js",
   "runtime~main.js.map": "/simplycss/static/js/runtime~main.2c9b0077.js.map",
-  "static/js/2.21d071e4.chunk.js": "/simplycss/static/js/2.21d071e4.chunk.js",
-  "static/js/2.21d071e4.chunk.js.map": "/simplycss/static/js/2.21d071e4.chunk.js.map",
+  "static/js/2.5cae795d.chunk.js": "/simplycss/static/js/2.5cae795d.chunk.js",
+  "static/js/2.5cae795d.chunk.js.map": "/simplycss/static/js/2.5cae795d.chunk.js.map",
   "index.html": "/simplycss/index.html",
-  "precache-manifest.b3309043b731cef55dad80e5b552a37a.js": "/simplycss/precache-manifest.b3309043b731cef55dad80e5b552a37a.js",
+  "precache-manifest.b5c5ccbb23bed7bf3eeb9d657a0e04bd.js": "/simplycss/precache-manifest.b5c5ccbb23bed7bf3eeb9d657a0e04bd.js",
   "service-worker.js": "/simplycss/service-worker.js",
-  "static/css/main.70db9462.chunk.css.map": "/simplycss/static/css/main.70db9462.chunk.css.map"
+  "static/css/main.f24f11b7.chunk.css.map": "/simplycss/static/css/main.f24f11b7.chunk.css.map",
+  "static/media/simply.css": "/simplycss/static/media/utility.43447932.svg",
+  "static/media/modern.svg": "/simplycss/static/media/modern.d70f2e75.svg"
 }
