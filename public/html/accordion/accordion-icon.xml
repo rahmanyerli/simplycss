@@ -1,8 +1,0 @@
-<div class="accordion">
-	<header>
-		<button type="button" data-icon>...</button>
-	</header>
-	<main>
-		<p>...</p>
-	</main>
-</div>

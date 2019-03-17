@@ -1,5 +1,0 @@
-<input type="checkbox" id="checkbox-4" disabled />
-<label for="checkbox-4">Disabled</label>
-<br />
-<input checked type="checkbox" id="checkbox-5" disabled />
-<label for="checkbox-5">Disabled &amp; Checked</label>

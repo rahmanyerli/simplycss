@@ -1,8 +1,8 @@
 {
 	"name": "simplycss",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"private": false,
-	"homepage": "https://github.com/rahmanyerli/simplycss",
+	"homepage": "https://rahmanyerli.github.io/simplycss/",
 	"dependencies": {
 		"gh-pages": "^2.0.1",
 		"prismjs": "^1.15.0",

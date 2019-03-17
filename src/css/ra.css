@@ -1726,7 +1726,7 @@ a.button.out-dark:active {
   background-position: center;
   min-width: 3rem;
   background-size: 1.25rem;
-  background-image: url("/images/menu.svg");
+  background-image: url("images/menu.svg");
   background-color: #FF6666;
   cursor: pointer;
 }
@@ -1979,145 +1979,145 @@ a.button.out-dark:active {
   overflow: hidden;
 }
 .icon-logo {
-  background-image: url("/images/ra.svg");
+  background-image: url("images/ra.svg");
 }
 .icon-logo-primary {
-  background-image: url("/images/ra-primary.svg");
+  background-image: url("images/ra-primary.svg");
 }
 .icon-logo-white {
-  background-image: url("/images/ra-white.svg");
+  background-image: url("images/ra-white.svg");
 }
 .icon-logo-transparent {
-  background-image: url("/images/ra-transparent.svg");
+  background-image: url("images/ra-transparent.svg");
 }
 .icon-github {
-  background-image: url("/images/github.svg");
+  background-image: url("images/github.svg");
 }
 .icon-responsive {
-  background-image: url("/images/responsive.svg");
+  background-image: url("images/responsive.svg");
 }
 .icon-modular {
-  background-image: url("/images/modular.svg");
+  background-image: url("images/modular.svg");
 }
 .icon-layout {
-  background-image: url("/images/layout.svg");
+  background-image: url("images/layout.svg");
 }
 .icon-structure {
-  background-image: url("/images/structure.svg");
+  background-image: url("images/structure.svg");
 }
 .icon-component {
-  background-image: url("/images/component.svg");
+  background-image: url("images/component.svg");
 }
 .icon-utility {
-  background-image: url("/images/utility.svg");
+  background-image: url("images/utility.svg");
 }
 .icon-menu {
-  background-image: url("/images/menu.svg");
+  background-image: url("images/menu.svg");
 }
 .icon-copy {
-  background-image: url("/images/copy.svg");
+  background-image: url("images/copy.svg");
 }
 .icon-copied {
-  background-image: url("/images/copied.svg");
+  background-image: url("images/copied.svg");
 }
 .icon-home {
-  background-image: url("/images/home.svg");
+  background-image: url("images/home.svg");
 }
 .icon-docs {
-  background-image: url("/images/docs.svg");
+  background-image: url("images/docs.svg");
 }
 .icon-email {
-  background-image: url("/images/email.svg");
+  background-image: url("images/email.svg");
 }
 .icon-settings {
-  background-image: url("/images/settings.svg");
+  background-image: url("images/settings.svg");
 }
 .icon-builder {
-  background-image: url("/images/builder.svg");
+  background-image: url("images/builder.svg");
 }
 .icon-password {
-  background-image: url("/images/password.svg");
+  background-image: url("images/password.svg");
 }
 .icon-hint {
-  background-image: url("/images/hint.svg");
+  background-image: url("images/hint.svg");
 }
 .icon-edit {
-  background-image: url("/images/codepen.svg");
+  background-image: url("images/codepen.svg");
 }
 .icon-codepen {
-  background-image: url("/images/edit.svg");
+  background-image: url("images/edit.svg");
 }
 .icon-gear {
-  background-image: url("/images/gear.svg");
+  background-image: url("images/gear.svg");
 }
 .icon-gear-white {
-  background-image: url("/images/gear-white.svg");
+  background-image: url("images/gear-white.svg");
 }
 .icon-container-64 {
-  background-image: url("/images/container-64.svg");
+  background-image: url("images/container-64.svg");
 }
 .icon-container-80 {
-  background-image: url("/images/container-80.svg");
+  background-image: url("images/container-80.svg");
 }
 .icon-container-90 {
-  background-image: url("/images/container-90.svg");
+  background-image: url("images/container-90.svg");
 }
 .icon-container-105 {
-  background-image: url("/images/container-105.svg");
+  background-image: url("images/container-105.svg");
 }
 .icon-container-120 {
-  background-image: url("/images/container-120.svg");
+  background-image: url("images/container-120.svg");
 }
 .icon-cols-2 {
-  background-image: url("/images/cols-2.svg");
+  background-image: url("images/cols-2.svg");
 }
 .icon-cols-2-2 {
-  background-image: url("/images/cols-2-2.svg");
+  background-image: url("images/cols-2-2.svg");
 }
 .icon-cols-3 {
-  background-image: url("/images/cols-3.svg");
+  background-image: url("images/cols-3.svg");
 }
 .icon-cols-3-3 {
-  background-image: url("/images/cols-3-3.svg");
+  background-image: url("images/cols-3-3.svg");
 }
 .icon-cols-4 {
-  background-image: url("/images/cols-4.svg");
+  background-image: url("images/cols-4.svg");
 }
 .icon-cols-4-4 {
-  background-image: url("/images/cols-4-4.svg");
+  background-image: url("images/cols-4-4.svg");
 }
 .icon-cols-6 {
-  background-image: url("/images/cols-6.svg");
+  background-image: url("images/cols-6.svg");
 }
 .icon-cols-6-6 {
-  background-image: url("/images/cols-6-6.svg");
+  background-image: url("images/cols-6-6.svg");
 }
 .icon-rows-2 {
-  background-image: url("/images/rows-2.svg");
+  background-image: url("images/rows-2.svg");
 }
 .icon-rows-3 {
-  background-image: url("/images/rows-3.svg");
+  background-image: url("images/rows-3.svg");
 }
 .icon-rows-4 {
-  background-image: url("/images/rows-4.svg");
+  background-image: url("images/rows-4.svg");
 }
 .icon-rows-6 {
-  background-image: url("/images/rows-6.svg");
+  background-image: url("images/rows-6.svg");
 }
 .icon-header {
-  background-image: url("/images/header.svg");
+  background-image: url("images/header.svg");
 }
 .icon-main {
-  background-image: url("/images/main.svg");
+  background-image: url("images/main.svg");
 }
 .icon-footer {
-  background-image: url("/images/footer.svg");
+  background-image: url("images/footer.svg");
 }
 .icon-aside {
-  background-image: url("/images/aside.svg");
+  background-image: url("images/aside.svg");
 }
 .icon-form {
-  background-image: url("/images/form.svg");
+  background-image: url("images/form.svg");
 }
 /** text indents **/
 .text-indent-none {
@@ -2576,7 +2576,7 @@ textarea:disabled {
 }
 /** selects **/
 select {
-  background-image: url("/images/down.svg");
+  background-image: url("images/down.svg");
   background-repeat: no-repeat;
   background-size: 1rem;
   background-position: calc(100% - 0.75rem) center;
