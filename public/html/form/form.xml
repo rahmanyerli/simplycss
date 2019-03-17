@@ -1,0 +1,20 @@
+<form>
+	<header>
+		<h3>Login</h3>
+	</header>
+	<hr />
+	<main>
+		<label for="email">Email</label>
+		<input type="email" placeholder="email..." />
+		<label for="password">Password</label>
+		<input type="password" placeholder="password..." />
+		<div class="margin-y-half">
+			<input type="checkbox" name="remember" id="remember" />
+			<label for="remember">Remember me?</label>
+		</div>
+	</main>
+	<hr />
+	<footer class="cols gap-half">
+		<button class="span-3" type="button">Login</button>
+	</footer>
+</form>

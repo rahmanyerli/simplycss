@@ -1,0 +1,21 @@
+<label>Default Options</label>
+<select>
+	<option>Select...</option>
+	<option value="1">Option 1</option>
+	<option value="2">Option 2</option>
+	<option value="3">Option 3</option>
+</select>
+<label>Option Groups</label>
+<select>
+	<option>Select...</option>
+	<optgroup label="Group 1">
+		<option value="1">Option 1</option>
+		<option value="2">Option 2</option>
+		<option value="3">Option 3</option>
+	</optgroup>
+	<optgroup label="Group 2">
+		<option value="A">Option A</option>
+		<option value="B">Option B</option>
+		<option value="C">Option C</option>
+	</optgroup>
+</select>

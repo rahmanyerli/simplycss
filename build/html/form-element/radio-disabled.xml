@@ -1,0 +1,5 @@
+<input type="radio" name="items-disabled" id="radio-4" disabled />
+<label htmlFor="radio-4">Disabled</label>
+<br />
+<input type="radio" name="items-disabled" id="radio-5" disabled checked />
+<label htmlFor="radio-5">Disabled &amp; Checked</label>

@@ -1,0 +1,45 @@
+<div class="cols gap-double">
+
+	<form class="span-6">
+		<header>
+			<h3>Contact Info</h3>
+		</header>
+		<hr />
+		<main>
+			<label for="title">Title</label>
+			<input type="text" placeholder="title..." />
+			<label for="email">Email</label>
+			<input type="email" placeholder="email..." />
+			<label for="phone">Phone</label>
+			<input type="tel" placeholder="phone..." />
+			<label for="mobile">Mobile</label>
+			<input type="tel" placeholder="mobile..." />
+		</main>
+		<hr />
+		<footer class="cols gap-half">
+			<button class="bg-teal span-6" type="button">Save</button>
+		</footer>
+	</form>
+
+	<form class="span-6">
+		<header>
+			<h3>Address</h3>
+		</header>
+		<hr />
+		<main>
+			<label for="street">Street</label>
+			<input type="text" placeholder="street..." />
+			<label for="city">City</label>
+			<input type="text" placeholder="city..." />
+			<label for="state">State</label>
+			<input type="text" placeholder="state..." />
+			<label for="postalcode">Postal Code</label>
+			<input type="text" placeholder="postal code..." />
+		</main>
+		<hr />
+		<footer class="cols gap-half">
+			<button class="bg-teal span-6" type="button">Save</button>
+		</footer>
+	</form>
+
+</div>

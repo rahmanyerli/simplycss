@@ -1,0 +1,13 @@
+<div class="hero">
+	<header>
+		<h1>Hero Title</h1>
+	</header>
+	<main>
+		<em>
+			Vestibulum auctor quis dolor eu mattis.
+			Nullam vulputate sapien eget dui pretium, auctor viverra augue ultricies.
+			In hac habitasse platea dictumst.
+			Suspendisse elementum purus vestibulum risus iaculis hendrerit.
+		</em>
+	</main>
+</div>
