@@ -1,0 +1,36 @@
+<div class="alert bg-primary" data-dismiss="true">
+	Alert primary!
+</div>
+<div class="alert bg-secondary" data-dismiss="true">
+	Alert secondary!
+</div>
+<div class="alert bg-blue" data-dismiss="true">
+	Alert blue!
+</div>
+<div class="alert bg-teal" data-dismiss="true">
+	Alert teal!
+</div>
+<div class="alert bg-green" data-dismiss="true">
+	Alert green!
+</div>
+<div class="alert bg-yellow" data-dismiss="true">
+	Alert yellow!
+</div>
+<div class="alert bg-orange" data-dismiss="true">
+	Alert orange!
+</div>
+<div class="alert bg-red" data-dismiss="true">
+	Alert red!
+</div>
+<div class="alert bg-purple" data-dismiss="true">
+	Alert purple!
+</div>
+<div class="alert bg-light" data-dismiss="true">
+	Alert light!
+</div>
+<div class="alert bg-medium" data-dismiss="true">
+	Alert medium!
+</div>
+<div class="alert bg-dark" data-dismiss="true">
+	Alert dark!
+</div>

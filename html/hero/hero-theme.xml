@@ -1,0 +1,15 @@
+<div class="hero bg-secondary">
+	<header>
+		<h1 class="color-yellow">Hero Title</h1>
+	</header>
+	<hr />
+	<main>
+		<em class="color-light">
+			Vestibulum auctor quis dolor eu mattis.
+			Nullam vulputate sapien eget dui pretium, auctor viverra augue ultricies.
+			In hac habitasse platea dictumst.
+			Suspendisse elementum purus vestibulum risus iaculis hendrerit.
+			&nbsp;<a class="color-orange" href="#">www.example.com</a>
+		</em>
+	</main>
+</div>

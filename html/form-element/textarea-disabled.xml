@@ -1,0 +1,8 @@
+<label>Textarea</label>
+<textarea rows="4" placeholder="textarea..." disabled>
+	Donec lobortis, quam vitae rhoncus imperdiet, 
+	ante mi malesuada justo, eu sagittis lorem elit at justo.
+	Quisque ac libero porttitor, lacinia neque id, volutpat odio.
+	Donec libero quam, molestie a arcu egestas, euismod convallis metus.
+	In porta mollis lectus, vel lobortis justo pretium sit amet.
+</textarea>
