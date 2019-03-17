@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/simplycss/static/js/runtime~main.2c9b0077.js"
   },
   {
-    "revision": "467527ebdc04f300511c",
-    "url": "/simplycss/static/js/main.390d9c99.chunk.js"
+    "revision": "fd45970f0d8c83da54f8",
+    "url": "/simplycss/static/js/main.2ec8b75a.chunk.js"
   },
   {
     "revision": "f2d1701126a926a8235d",
     "url": "/simplycss/static/js/2.e638e3cd.chunk.js"
   },
   {
-    "revision": "467527ebdc04f300511c",
-    "url": "/simplycss/static/css/main.e43c7616.chunk.css"
+    "revision": "fd45970f0d8c83da54f8",
+    "url": "/simplycss/static/css/main.4f4a0f63.chunk.css"
   },
   {
-    "revision": "00ef89ad64c613369ddd02732c6c8e0a",
+    "revision": "2ebf0b9b83065a08bf76f61fa781214c",
     "url": "/simplycss/index.html"
   }
 ];
