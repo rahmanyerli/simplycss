@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/rahmanyerli/simplycss/precache-manifest.c2056a6a5e029f49ca3644d656a8a3b0.js"
+  "/simplycss/precache-manifest.b3309043b731cef55dad80e5b552a37a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/rahmanyerli/simplycss/index.html", {
+workbox.routing.registerNavigationRoute("/simplycss/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
