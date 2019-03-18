@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/simplycss/static/js/runtime~main.2c9b0077.js"
   },
   {
-    "revision": "c1650b2b82d0002f0409",
+    "revision": "526b7ef77a2c0d70cf35",
     "url": "/simplycss/static/js/main.2ec8b75a.chunk.js"
   },
   {
@@ -12,11 +12,11 @@ self.__precacheManifest = [
     "url": "/simplycss/static/js/2.e638e3cd.chunk.js"
   },
   {
-    "revision": "c1650b2b82d0002f0409",
-    "url": "/simplycss/static/css/main.9955d981.chunk.css"
+    "revision": "526b7ef77a2c0d70cf35",
+    "url": "/simplycss/static/css/main.fd491666.chunk.css"
   },
   {
-    "revision": "5f45c8b40c11e6e44920b7b352b225dc",
+    "revision": "301312436f20bb3c6b4f76417ab7864b",
     "url": "/simplycss/index.html"
   }
 ];
