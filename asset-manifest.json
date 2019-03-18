@@ -1,5 +1,5 @@
 {
-  "main.css": "/simplycss/static/css/main.49a4fa39.chunk.css",
+  "main.css": "/simplycss/static/css/main.dd0462dd.chunk.css",
   "main.js": "/simplycss/static/js/main.2ea5fced.chunk.js",
   "main.js.map": "/simplycss/static/js/main.2ea5fced.chunk.js.map",
   "runtime~main.js": "/simplycss/static/js/runtime~main.2c9b0077.js",
@@ -7,7 +7,7 @@
   "static/js/2.e638e3cd.chunk.js": "/simplycss/static/js/2.e638e3cd.chunk.js",
   "static/js/2.e638e3cd.chunk.js.map": "/simplycss/static/js/2.e638e3cd.chunk.js.map",
   "index.html": "/simplycss/index.html",
-  "precache-manifest.7b23199249496d0a5fd8be87164909b7.js": "/simplycss/precache-manifest.7b23199249496d0a5fd8be87164909b7.js",
+  "precache-manifest.f7847993ae90cf67c42879f127d5bee4.js": "/simplycss/precache-manifest.f7847993ae90cf67c42879f127d5bee4.js",
   "service-worker.js": "/simplycss/service-worker.js",
-  "static/css/main.49a4fa39.chunk.css.map": "/simplycss/static/css/main.49a4fa39.chunk.css.map"
+  "static/css/main.dd0462dd.chunk.css.map": "/simplycss/static/css/main.dd0462dd.chunk.css.map"
 }
