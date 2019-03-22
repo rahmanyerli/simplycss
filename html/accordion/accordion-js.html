@@ -26,19 +26,19 @@
 </div>
 
 <script>
-import Accordion from 'simply.accordion'
+	import Accordion from 'simply.accordion'
 
-function expandAll() {
-	const accordions = document.querySelectorAll('#accordion-container .accordion')
-	accordions.forEach(accordion => {
-		Accordion.expandAccordion(accordion)
-	})
-}
+	function expandAll() {
+		const accordions = document.querySelectorAll('#accordion-container .accordion')
+		accordions.forEach(accordion => {
+			Accordion.expandAccordion(accordion)
+		})
+	}
 
-function collapseAll() {
-	const accordions = document.querySelectorAll('#accordion-container .accordion')
-	accordions.forEach(accordion => {
-		Accordion.collapseAccordion(accordion)
-	})
-}
+	function collapseAll() {
+		const accordions = document.querySelectorAll('#accordion-container .accordion')
+		accordions.forEach(accordion => {
+			Accordion.collapseAccordion(accordion)
+		})
+	}
 </script>
