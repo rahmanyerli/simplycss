@@ -1,56 +1,23 @@
-<main class="margin-top cols gap-double">
-	<form class="span-6">
-		<header>
-			<h4>RGB Color</h4>
-		</header>
-		<hr />
-		<main>
-			<label for="range-red">Red</label>
-			<div class="cols gap">
-				<input class="span-9" type="range" id="range-red" min="0" max="255" step="1" value="255" />
-				<input class="span-3" type="number" data-target="range-red" min="0" max="255" step="1" value="255"
-					readonly />
-			</div>
-			<label for="range-green">Green</label>
-			<div class="cols gap">
-				<input class="span-9" type="range" id="range-green" min="0" max="255" step="1" value="85" />
-				<input class="span-3" type="number" data-target="range-green" min="0" max="255" step="1" value="85"
-					readonly />
-			</div>
-			<label for="range-blue">Blue</label>
-			<div class="cols gap">
-				<input class="span-9" type="range" id="range-blue" min="0" max="255" step="1" value="102" />
-				<input class="span-3" type="number" data-target="range-blue" min="0" max="255" step="1" value="102"
-					readonly />
-			</div>
-		</main>
-	</form>
-	<form class="span-6">
-		<header>
-			<h4>HSL Color</h4>
-		</header>
-		<hr />
-		<main>
-			<div id="hsl" class="padding-button border text-center color-white border-radius"></div>
-			<br />
-			<label for="range-hue">Hue</label>
-			<div class="cols gap">
-				<input class="span-3" type="number" data-target="range-hue" min="0" max="360" step="10" value="180"
-					readonly />
-				<input class="span-9" type="range" id="range-hue" min="0" max="360" step="10" value="180" />
-			</div>
-			<label for="range-saturation">Saturation (%)</label>
-			<div class="cols gap">
-				<input class="span-3" type="number" data-target="range-saturation" min="0" max="100" step="5" value="70"
-					readonly />
-				<input class="span-9" type="range" id="range-saturation" min="0" max="100" step="5" value="70" />
-			</div>
-			<label for="range-lightness">Lightness (%)</label>
-			<div class="cols gap">
-				<input class="span-3" type="number" data-target="range-lightness" min="0" max="100" step="5" value="45"
-					readonly />
-				<input class="span-9" type="range" id="range-lightness" min="0" max="100" step="5" value="45" />
-			</div>
-		</main>
-	</form>
-</main>
+<form>
+	<header>
+		<h5>RGB Color</h5>
+	</header>
+	<hr />
+	<main>
+		<label for="range-red">Red</label>
+		<div class="range">
+			<input type="range" id="range-red" min="0" max="255" step="1" value="255" />
+			<input type="number" data-target="range-red" min="0" max="255" step="1" value="255" readonly />
+		</div>
+		<label for="range-green">Green</label>
+		<div class="range">
+			<input type="range" id="range-green" min="0" max="255" step="1" value="85" />
+			<input type="number" data-target="range-green" min="0" max="255" step="1" value="85" readonly />
+		</div>
+		<label for="range-blue">Blue</label>
+		<div class="range">
+			<input type="range" id="range-blue" min="0" max="255" step="1" value="102" />
+			<input type="number" data-target="range-blue" min="0" max="255" step="1" value="102" readonly />
+		</div>
+	</main>
+</form>
