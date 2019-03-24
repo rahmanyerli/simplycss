@@ -4,9 +4,9 @@ import Simply from '../js/simply'
 class Heroes extends Component {
 
 	componentDidMount() {
-		Simply.loadSample("../html/hero/hero.xml", null, "code-hero")
-		Simply.loadSample("../html/hero/hero-template.xml", null, "code-hero-template")
-		Simply.loadSample("../html/hero/hero-theme.xml", null, "code-hero-theme")
+		Simply.loadSample("./html/hero/hero.html", null, "code-hero")
+		Simply.loadSample("./html/hero/hero-template.html", null, "code-hero-template")
+		Simply.loadSample("./html/hero/hero-theme.html", null, "code-hero-theme")
 		Simply.bindClipboard()
 	}
 
@@ -16,7 +16,7 @@ class Heroes extends Component {
 
 				<article>
 					<header>
-						<h1>Hero</h1>
+						<h1>Heroes</h1>
 					</header>
 					<hr />
 					<main>
@@ -124,7 +124,7 @@ class Heroes extends Component {
 									Nullam vulputate sapien eget dui pretium, auctor viverra augue ultricies.
 									In hac habitasse platea dictumst.
 									Suspendisse elementum purus vestibulum risus iaculis hendrerit.
-									&nbsp;<a className="color-orange" href="/">www.example.com</a>
+									&nbsp;<a className="color-yellow" href="/">www.example.com</a>
 								</em>
 							</main>
 						</div>

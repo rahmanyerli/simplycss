@@ -4,7 +4,7 @@ import Simply from '../js/simply'
 class Semantics extends Component {
 
 	componentDidMount() {
-		Simply.loadSample("../html/semantic/semantic.xml", null, "code-semantic")
+		Simply.loadSample("./html/semantic/semantic.html", null, "code-semantic")
 		Simply.bindClipboard()
 	}
 

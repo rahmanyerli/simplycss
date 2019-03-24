@@ -4,9 +4,9 @@ import Simply from '../js/simply'
 class Sample extends Component {
 
 	componentDidMount() {
-		// Simply.loadSample("../html/button/button.xml", null, "code-button")
-		// Simply.loadSample("../html/button/button-out.xml", null, "code-button-out")
-		// Simply.loadSample("../html/button/button-out-white.xml", null, "code-button-out-white")
+		// Simply.loadSample("./html/button/button.xml", null, "code-button")
+		// Simply.loadSample("./html/button/button-out.xml", null, "code-button-out")
+		// Simply.loadSample("./html/button/button-out-white.xml", null, "code-button-out-white")
 		// Simply.bindClipboard()
 	}
 

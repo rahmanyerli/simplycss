@@ -4,11 +4,11 @@ import Simply from '../js/simply'
 class Badges extends Component {
 
 	componentDidMount() {
-		Simply.loadSample("../html/badge/badge.xml", null, "code-badge")
-		Simply.loadSample("../html/badge/badge-theme.xml", null, "code-badge-theme")
-		Simply.loadSample("../html/badge/badge-intable.xml", null, "code-badge-intable")
-		Simply.loadSample("../html/badge/badge-intext.xml", null, "code-badge-intext")
-		Simply.loadSample("../html/badge/badge-inlist.xml", null, "code-badge-inlist")
+		Simply.loadSample("./html/badge/badge.html", null, "code-badge")
+		Simply.loadSample("./html/badge/badge-theme.html", null, "code-badge-theme")
+		Simply.loadSample("./html/badge/badge-intable.html", null, "code-badge-intable")
+		Simply.loadSample("./html/badge/badge-intext.html", null, "code-badge-intext")
+		Simply.loadSample("./html/badge/badge-inlist.html", null, "code-badge-inlist")
 		Simply.bindClipboard()
 	}
 
@@ -18,7 +18,7 @@ class Badges extends Component {
 				<article>
 					<header>
 						<h1>
-							Badge
+							Badges
 						</h1>
 					</header>
 					<hr />

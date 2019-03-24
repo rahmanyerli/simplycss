@@ -6,11 +6,11 @@ class Alerts extends Component {
 
 	componentDidMount() {
 		Alert.init()
-		Simply.loadSample("../html/alert/alert.xml", null, "code-alert")
-		Simply.loadSample("../html/alert/alert-theme.xml", null, "code-alert-theme")
-		Simply.loadSample("../html/alert/alert-template.xml", null, "code-alert-template")
-		Simply.loadSample("../html/alert/alert-dismiss.xml", null, "code-alert-dismiss")
-		Simply.loadSample("../html/alert/alert-js.xml", null, "code-alert-js")
+		Simply.loadSample("./html/alert/alert.html", null, "code-alert")
+		Simply.loadSample("./html/alert/alert-theme.html", null, "code-alert-theme")
+		Simply.loadSample("./html/alert/alert-template.html", null, "code-alert-template")
+		Simply.loadSample("./html/alert/alert-dismiss.html", null, "code-alert-dismiss")
+		Simply.loadSample("./html/alert/alert-js.html", null, "code-alert-js")
 		Simply.bindClipboard()
 	}
 
@@ -63,7 +63,7 @@ class Alerts extends Component {
 			<section>
 				<article>
 					<header>
-						<h1>Alert</h1>
+						<h1>Alerts</h1>
 					</header>
 					<hr />
 					<main>
@@ -73,7 +73,7 @@ class Alerts extends Component {
 							button. You can add/remove alerts dynamically by using JS.
 						</em>
 						<div className="alert bg-primary">
-							Note: JS is required for this component.
+							JS is required for this component.
 						</div>
 					</main>
 				</article>

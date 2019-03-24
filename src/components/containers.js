@@ -4,12 +4,12 @@ import Simply from '../js/simply'
 class Containers extends Component {
 
 	componentDidMount() {
-		Simply.loadSample("../html/container/container-64.xml", null, "code-container-64")
-		Simply.loadSample("../html/container/container-80.xml", null, "code-container-80")
-		Simply.loadSample("../html/container/container-90.xml", null, "code-container-90")
-		Simply.loadSample("../html/container/container-105.xml", null, "code-container-105")
-		Simply.loadSample("../html/container/container-120.xml", null, "code-container-120")
-		Simply.loadSample("../html/container/container-other.xml", null, "code-container-other")
+		Simply.loadSample("./html/container/container-64.html", null, "code-container-64")
+		Simply.loadSample("./html/container/container-80.html", null, "code-container-80")
+		Simply.loadSample("./html/container/container-90.html", null, "code-container-90")
+		Simply.loadSample("./html/container/container-105.html", null, "code-container-105")
+		Simply.loadSample("./html/container/container-120.html", null, "code-container-120")
+		Simply.loadSample("./html/container/container-other.html", null, "code-container-other")
 		Simply.bindClipboard()
 	}
 
@@ -18,7 +18,7 @@ class Containers extends Component {
 			<section>
 				<article>
 					<header>
-						<h1>Container</h1>
+						<h1>Containers</h1>
 					</header>
 					<hr />
 					<main>

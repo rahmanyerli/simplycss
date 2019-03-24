@@ -4,9 +4,9 @@ import Simply from '../js/simply'
 class Breadcrumbs extends Component {
 
 	componentDidMount() {
-		Simply.loadSample("../html/breadcrumb/breadcrumb.xml", null, "code-breadcrumb")
-		Simply.loadSample("../html/breadcrumb/breadcrumb-separator.xml", null, "code-breadcrumb-separator")
-		Simply.loadSample("../html/breadcrumb/breadcrumb-theme.xml", null, "code-breadcrumb-theme")
+		Simply.loadSample("./html/breadcrumb/breadcrumb.html", null, "code-breadcrumb")
+		Simply.loadSample("./html/breadcrumb/breadcrumb-separator.html", null, "code-breadcrumb-separator")
+		Simply.loadSample("./html/breadcrumb/breadcrumb-theme.html", null, "code-breadcrumb-theme")
 		Simply.bindClipboard()
 	}
 
@@ -15,7 +15,7 @@ class Breadcrumbs extends Component {
 			<section>
 				<article>
 					<header>
-						<h1>Breadcrumb</h1>
+						<h1>Breadcrumbs</h1>
 					</header>
 					<hr />
 					<main>

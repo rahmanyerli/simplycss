@@ -70,14 +70,13 @@ class Simply {
 						if (codeid && codeid !== "") {
 							document.getElementById(codeid).textContent = data;
 						}
-
 						Prism.highlightAll()
-					});
+					})
 				}
 			)
 			.catch(function (err) {
 				console.log("Fetch Error :(", err);
-			});
+			})
 	}
 
 	static expandSideNav = (params) => {

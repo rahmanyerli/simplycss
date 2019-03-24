@@ -2,18 +2,17 @@ import React, { Component } from 'react'
 import Simply from '../js/simply'
 
 class FormElements extends Component {
-
 	componentDidMount() {
-		Simply.loadSample("../html/form-element/input.xml", null, "code-input")
-		Simply.loadSample("../html/form-element/input-disabled.xml", null, "code-input-disabled")
-		Simply.loadSample("../html/form-element/select.xml", null, "code-select")
-		Simply.loadSample("../html/form-element/select-disabled.xml", null, "code-select-disabled")
-		Simply.loadSample("../html/form-element/checkbox.xml", null, "code-checkbox")
-		Simply.loadSample("../html/form-element/checkbox-disabled.xml", null, "code-checkbox-disabled")
-		Simply.loadSample("../html/form-element/radio.xml", null, "code-radio")
-		Simply.loadSample("../html/form-element/radio-disabled.xml", null, "code-radio-disabled")
-		Simply.loadSample("../html/form-element/textarea.xml", null, "code-textarea")
-		Simply.loadSample("../html/form-element/textarea-disabled.xml", null, "code-textarea-disabled")
+		Simply.loadSample("./html/form-element/input.html", null, "code-input")
+		Simply.loadSample("./html/form-element/input-disabled.html", null, "code-input-disabled")
+		Simply.loadSample("./html/form-element/select.html", null, "code-select")
+		Simply.loadSample("./html/form-element/select-disabled.html", null, "code-select-disabled")
+		Simply.loadSample("./html/form-element/checkbox.html", null, "code-checkbox")
+		Simply.loadSample("./html/form-element/checkbox-disabled.html", null, "code-checkbox-disabled")
+		Simply.loadSample("./html/form-element/radio.html", null, "code-radio")
+		Simply.loadSample("./html/form-element/radio-disabled.html", null, "code-radio-disabled")
+		Simply.loadSample("./html/form-element/textarea.html", null, "code-textarea")
+		Simply.loadSample("./html/form-element/textarea-disabled.html", null, "code-textarea-disabled")
 		Simply.bindClipboard()
 	}
 
@@ -38,7 +37,7 @@ class FormElements extends Component {
 					</header>
 					<main className="margin-top">
 						<label>Text</label>
-						<input disabled type="text" placeholder="text..." />
+						<input type="text" placeholder="text..." />
 						<label>Number</label>
 						<input type="number" placeholder="number..." />
 						<label>Search</label>
@@ -317,6 +316,7 @@ class FormElements extends Component {
 						</figure>
 					</main>
 				</article>
+
 			</section>
 		)
 	}

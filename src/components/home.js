@@ -1,17 +1,11 @@
 import React, { Component } from 'react'
 import { NavLink } from 'react-router-dom'
+import Modern from '../images/modern.svg'
+import Modular from '../images/modular.svg'
+import Responsive from '../images/responsive.svg'
+import Github from '../images/github.svg'
 
 class Home extends Component {
-
-	// componentDidMount() {
-	// 	document.getElementById("sidenav").style.display = "none"
-	// 	document.getElementById("menu-button").style.display = "none"
-	// }
-
-	// componentWillUnmount() {
-	// 	document.getElementById("sidenav").style.display = "inline-block"
-	// 	document.getElementById("menu-button").style.display = "inline-block"
-	// }
 
 	render() {
 		return (
@@ -40,28 +34,28 @@ class Home extends Component {
 										<h5>Modern</h5>
 										<p>CSS3 Less/Sass</p>
 										<div className="padding">
-											<img src="../images/modern.svg" alt="Modern" />
+											<img src={Modern} alt="Modern" />
 										</div>
 									</section>
 									<section className="span-3 padding-y text-center">
 										<h5>Responsive</h5>
 										<p>Mobile First</p>
 										<div className="padding">
-											<img src="../images/responsive.svg" alt="Responsive" />
+											<img src={Responsive} alt="Responsive" />
 										</div>
 									</section>
 									<section className="span-3 padding-y text-center">
 										<h5>Open Source</h5>
 										<p>GitHub</p>
 										<div className="padding">
-											<img src="../images/github.svg" alt="GitHub" />
+											<img src={Github} alt="GitHub" />
 										</div>
 									</section>
 									<section className="span-3 padding-y text-center">
 										<h5>Modular</h5>
 										<p>Partial CSS</p>
 										<div className="padding">
-											<img src="../images/modular.svg" alt="Modular" />
+											<img src={Modular} alt="Modular" />
 										</div>
 									</section>
 								</section>

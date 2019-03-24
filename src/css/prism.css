@@ -8,9 +8,9 @@ https://prismjs.com/download.html#themes=prism&languages=markup+css+clike+javasc
  */
 
 pre, code, code * {
-	font-family: monospace;
-	font-size: 1rem;
-	font-weight: 400;
+	font-family: 'Roboto Mono', monospace;
+	font-size: 1.125rem;
+	font-weight: 300;
 	color: #DDDDDD;
 }
 
@@ -84,7 +84,7 @@ pre[class*="language-"] {
 }
 
 .token.tag {
-	color: #CC9966;
+	color: #DD9966;
 }
 
 .token.attr-name, .token.char, .token.inserted, .token.class-name {

@@ -6,7 +6,6 @@ import Home from './components/home'
 import Docs from './components/docs'
 import NotFound from './components/not-found'
 import Simply from './js/simply'
-import './css/prism.css'
 import Accordions from './components/accordions'
 import Alerts from './components/alerts'
 import Badges from './components/badges'
@@ -18,6 +17,8 @@ import Containers from './components/containers';
 import Grids from './components/grids';
 import FormElements from './components/form-elements';
 import Heroes from './components/heroes';
+import Ranges from './components/ranges';
+import Groups from './components/groups';
 
 class App extends Component {
 
@@ -48,9 +49,11 @@ class App extends Component {
 							<Route path="/badges" component={Badges} />
 							<Route path="/breadcrumbs" component={Breadcrumbs} />
 							<Route path="/buttons" component={Buttons} />
-							<Route path="/forms" component={Forms} />
 							<Route path="/form-elements" component={FormElements} />
+							<Route path="/forms" component={Forms} />
+							<Route path="/groups" component={Groups} />
 							<Route path="/heroes" component={Heroes} />
+							<Route path="/ranges" component={Ranges} />
 							<Route component={NotFound} />
 						</Switch>
 					</section>

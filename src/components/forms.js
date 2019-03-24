@@ -4,9 +4,9 @@ import Simply from '../js/simply'
 class Forms extends Component {
 
 	componentDidMount() {
-		Simply.loadSample("../html/form/form.xml", null, "code-form")
-		Simply.loadSample("../html/form/form-theme.xml", null, "code-form-theme")
-		Simply.loadSample("../html/form/form-template.xml", null, "code-form-template")
+		Simply.loadSample("./html/form/form.html", null, "code-form")
+		Simply.loadSample("./html/form/form-theme.html", null, "code-form-theme")
+		Simply.loadSample("./html/form/form-template.html", null, "code-form-template")
 		Simply.bindClipboard()
 	}
 
@@ -15,7 +15,7 @@ class Forms extends Component {
 			<section>
 				<article>
 					<header>
-						<h1>Form</h1>
+						<h1>Forms</h1>
 					</header>
 					<hr />
 					<main>
@@ -106,8 +106,8 @@ class Forms extends Component {
 					</header>
 					<main className="margin-top cols gap-double">
 						<form className="span-6">
-							<header>
-								<h5>Contact Info</h5>
+							<header className="icon icon-xl icon-right icon-register-dark">
+								<h4>Contact Info</h4>
 							</header>
 							<hr />
 							<main>
@@ -127,8 +127,8 @@ class Forms extends Component {
 						</form>
 
 						<form className="span-6">
-							<header>
-								<h5>Address</h5>
+							<header className="icon icon-xl icon-right icon-login-dark">
+								<h4>Address</h4>
 							</header>
 							<hr />
 							<main>

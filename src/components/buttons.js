@@ -4,9 +4,9 @@ import Simply from '../js/simply'
 class Buttons extends Component {
 
 	componentDidMount() {
-		Simply.loadSample("../html/button/button.xml", null, "code-button")
-		Simply.loadSample("../html/button/button-out.xml", null, "code-button-out")
-		Simply.loadSample("../html/button/button-out-white.xml", null, "code-button-out-white")
+		Simply.loadSample("./html/button/button.html", null, "code-button")
+		Simply.loadSample("./html/button/button-out.html", null, "code-button-out")
+		Simply.loadSample("./html/button/button-out-white.html", null, "code-button-out-white")
 		Simply.bindClipboard()
 	}
 
@@ -15,7 +15,7 @@ class Buttons extends Component {
 			<section>
 				<article>
 					<header>
-						<h1>Button</h1>
+						<h1>Buttons</h1>
 					</header>
 					<hr />
 					<main className="margin-top-double">

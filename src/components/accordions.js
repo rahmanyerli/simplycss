@@ -6,11 +6,11 @@ class Accordions extends Component {
 
 	componentDidMount() {
 		Accordion.init()
-		Simply.loadSample("../html/accordion/accordion.xml", null, "code-accordion")
-		Simply.loadSample("../html/accordion/accordion-icon.xml", null, "code-accordion-icon")
-		Simply.loadSample("../html/accordion/accordion-toggle.xml", null, "code-accordion-toggle")
-		Simply.loadSample("../html/accordion/accordion-theme.xml", null, "code-accordion-theme")
-		Simply.loadSample("../html/accordion/accordion-js.xml", null, "code-accordion-js")
+		Simply.loadSample("./html/accordion/accordion.html", null, "code-accordion")
+		Simply.loadSample("./html/accordion/accordion-icon.html", null, "code-accordion-icon")
+		Simply.loadSample("./html/accordion/accordion-toggle.html", null, "code-accordion-toggle")
+		Simply.loadSample("./html/accordion/accordion-theme.html", null, "code-accordion-theme")
+		Simply.loadSample("./html/accordion/accordion-js.html", null, "code-accordion-js")
 		Simply.bindClipboard()
 	}
 
@@ -33,7 +33,7 @@ class Accordions extends Component {
 			<section>
 				<article>
 					<header>
-						<h1>Accordion</h1>
+						<h1>Accordions</h1>
 					</header>
 					<hr />
 					<main>
@@ -43,8 +43,8 @@ class Accordions extends Component {
 							must be a button element to trigger expand-collapse events. You can customize the main element according to your
 							needs. You can expand/collapse accordions dynamically by using Javascript.
 						</em>
-						<div className="alert bg-primary margin-top">
-							Note: JS is required for this component.
+						<div className="alert bg-primary">
+							JS is required for this component.
 						</div>
 					</main>
 				</article>

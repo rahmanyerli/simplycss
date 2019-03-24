@@ -4,10 +4,10 @@ import Simply from '../js/simply'
 class Docs extends Component {
 
 	componentDidMount() {
-		Simply.loadSample("../html/docs/starter.xml", null, "code-starter")
-		Simply.loadSample("../html/docs/body.xml", null, "code-body")
-		Simply.loadSample("../html/docs/article.xml", null, "code-article")
-		Simply.loadSample("../html/docs/form.xml", null, "code-form")
+		Simply.loadSample("./html/docs/starter.html", null, "code-starter")
+		Simply.loadSample("./html/docs/body.html", null, "code-body")
+		Simply.loadSample("./html/docs/article.html", null, "code-article")
+		Simply.loadSample("./html/docs/form.html", null, "code-form")
 		Simply.bindClipboard()
 	}
 

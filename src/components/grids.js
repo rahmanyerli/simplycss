@@ -4,15 +4,15 @@ import Simply from '../js/simply'
 class Grids extends Component {
 
 	componentDidMount() {
-		Simply.loadSample("../html/grid/cols.xml", null, "code-cols")
-		Simply.loadSample("../html/grid/cols-sum.xml", null, "code-cols-sum")
-		Simply.loadSample("../html/grid/rows.xml", null, "code-rows")
-		Simply.loadSample("../html/grid/gap.xml", null, "code-gap")
-		Simply.loadSample("../html/grid/gap-quarter.xml", null, "code-gap-quarter")
-		Simply.loadSample("../html/grid/gap-half.xml", null, "code-gap-half")
-		Simply.loadSample("../html/grid/gap-one-half.xml", null, "code-gap-one-half")
-		Simply.loadSample("../html/grid/gap-double.xml", null, "code-gap-double")
-		Simply.loadSample("../html/grid/gap-none.xml", null, "code-gap-none")
+		Simply.loadSample("./html/grid/cols.html", null, "code-cols")
+		Simply.loadSample("./html/grid/cols-sum.html", null, "code-cols-sum")
+		Simply.loadSample("./html/grid/rows.html", null, "code-rows")
+		Simply.loadSample("./html/grid/gap.html", null, "code-gap")
+		Simply.loadSample("./html/grid/gap-quarter.html", null, "code-gap-quarter")
+		Simply.loadSample("./html/grid/gap-half.html", null, "code-gap-half")
+		Simply.loadSample("./html/grid/gap-one-half.html", null, "code-gap-one-half")
+		Simply.loadSample("./html/grid/gap-double.html", null, "code-gap-double")
+		Simply.loadSample("./html/grid/gap-none.html", null, "code-gap-none")
 		Simply.bindClipboard()
 	}
 
@@ -21,7 +21,7 @@ class Grids extends Component {
 			<section>
 				<article>
 					<header>
-						<h1>Grid</h1>
+						<h1>Grids</h1>
 					</header>
 					<hr />
 					<main>
