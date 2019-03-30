@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/simplycss/static/media/cancel-light.f583cd64.svg"
   },
   {
-    "revision": "bdcf74f809f6ed7be032",
-    "url": "/simplycss/static/css/main.e79eee10.chunk.css"
+    "revision": "dfdc1124e8e209022199",
+    "url": "/simplycss/static/css/main.cc866022.chunk.css"
   },
   {
     "revision": "324b7e11c70bcbedc510",
     "url": "/simplycss/static/js/runtime~main.2c9b0077.js"
   },
   {
-    "revision": "c1386027ebf5189e61aa",
-    "url": "/simplycss/static/js/2.34a3cf5b.chunk.js"
+    "revision": "e486e36e0c04928737d3",
+    "url": "/simplycss/static/js/2.0eaee654.chunk.js"
   },
   {
     "revision": "99fe5dc4768811914525f45f7b7531a3",
@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/simplycss/static/media/menu-dark.e92974d1.svg"
   },
   {
-    "revision": "cca0f0ff402415166481afc08c969a12",
-    "url": "/simplycss/static/media/menu-light.cca0f0ff.svg"
-  },
-  {
     "revision": "7e58c8dcd2ace22532e19ce4e476ea8e",
     "url": "/simplycss/static/media/down-light.7e58c8dc.svg"
+  },
+  {
+    "revision": "cca0f0ff402415166481afc08c969a12",
+    "url": "/simplycss/static/media/menu-light.cca0f0ff.svg"
   },
   {
     "revision": "68f215b92a565ea049cec4c69638c628",
@@ -56,16 +56,16 @@ self.__precacheManifest = [
     "url": "/simplycss/static/media/nav-link.bbe5a8f5.svg"
   },
   {
+    "revision": "a8b1c77848449ca14e353545e8c87c41",
+    "url": "/simplycss/static/media/number-dark.a8b1c778.svg"
+  },
+  {
     "revision": "97f50bfe5de0df4bb5b066adb771ea9d",
     "url": "/simplycss/static/media/search-dark.97f50bfe.svg"
   },
   {
     "revision": "8a6467684d3c206e6a2a048c52dbcd40",
     "url": "/simplycss/static/media/search-light.8a646768.svg"
-  },
-  {
-    "revision": "a8b1c77848449ca14e353545e8c87c41",
-    "url": "/simplycss/static/media/number-dark.a8b1c778.svg"
   },
   {
     "revision": "cfb361ba03232ea14a3fd307d1b5e3ce",
@@ -88,20 +88,20 @@ self.__precacheManifest = [
     "url": "/simplycss/static/media/minus-light.6ef6a537.svg"
   },
   {
-    "revision": "18bebf8183b24b211bf12c54bbb30dfb",
-    "url": "/simplycss/static/media/ok-dark.18bebf81.svg"
+    "revision": "c5e081b093dcd2aefb982d303da2946a",
+    "url": "/simplycss/static/media/ok-dark.c5e081b0.svg"
   },
   {
-    "revision": "a4e274b59bd2bd983a57f790168a6b8d",
-    "url": "/simplycss/static/media/ok-light.a4e274b5.svg"
+    "revision": "96dd5c909157cb8960820d3edeb9cf56",
+    "url": "/simplycss/static/media/ok-light.96dd5c90.svg"
   },
   {
     "revision": "d42b49db1241d177883ee54cd770b877",
     "url": "/simplycss/static/media/cancel-dark.d42b49db.svg"
   },
   {
-    "revision": "bdcf74f809f6ed7be032",
-    "url": "/simplycss/static/js/main.f126a227.chunk.js"
+    "revision": "dfdc1124e8e209022199",
+    "url": "/simplycss/static/js/main.880d3de0.chunk.js"
   },
   {
     "revision": "877d65f568a9e416d926c334a53122ee",
@@ -140,12 +140,12 @@ self.__precacheManifest = [
     "url": "/simplycss/static/media/download-dark.aa8ef5a7.svg"
   },
   {
-    "revision": "75ff4a5e0196327a47326b0b10405bc3",
-    "url": "/simplycss/static/media/download-light.75ff4a5e.svg"
-  },
-  {
     "revision": "7eb46da1a438f020f3cc12b5a0ea3dce",
     "url": "/simplycss/static/media/address-dark.7eb46da1.svg"
+  },
+  {
+    "revision": "75ff4a5e0196327a47326b0b10405bc3",
+    "url": "/simplycss/static/media/download-light.75ff4a5e.svg"
   },
   {
     "revision": "4cad3f06bffff762da23bbc28867f5de",
@@ -200,7 +200,7 @@ self.__precacheManifest = [
     "url": "/simplycss/static/media/edit-light.1a715a9c.svg"
   },
   {
-    "revision": "379f87d9100249d798985d49fcca28bd",
+    "revision": "fceee9da2f36bb8b6385b41328b78846",
     "url": "/simplycss/index.html"
   }
 ];
