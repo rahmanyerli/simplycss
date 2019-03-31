@@ -31,14 +31,14 @@
 	function expandAll() {
 		const accordions = document.querySelectorAll('#accordion-container .accordion')
 		accordions.forEach(accordion => {
-			Accordion.expandAccordion(accordion)
+			Accordion.expand(accordion)
 		})
 	}
 
 	function collapseAll() {
 		const accordions = document.querySelectorAll('#accordion-container .accordion')
 		accordions.forEach(accordion => {
-			Accordion.collapseAccordion(accordion)
+			Accordion.collapse(accordion)
 		})
 	}
 </script>
