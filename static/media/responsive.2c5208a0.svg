@@ -4,7 +4,7 @@
 	xmlns="http://www.w3.org/2000/svg" 
 	xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 	<style type="text/css">
-	.st0{fill:none;stroke:#FF6666;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st0{fill:none;stroke:#D65C85;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	</style>
 	<line class="st0" x1="224" y1="32" x2="288" y2="32"/>
 	<rect x="16" y="272" class="st0" width="128" height="224"/>

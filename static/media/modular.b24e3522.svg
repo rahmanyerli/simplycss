@@ -4,8 +4,8 @@
 	xmlns="http://www.w3.org/2000/svg" 
 	xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 	<style type="text/css">
-	.st0{display:none;fill:none;stroke:#FF6666;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st1{fill:none;stroke:#FF6666;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st0{display:none;fill:none;stroke:#D65C85;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#D65C85;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	</style>
 	<polygon class="st0" points="256,16 128,80 128,224 256,288 384,224 384,80 "/>
 	<polygon class="st1" points="296,186.7 216,186.7 176,256 216,325.3 296,325.3 336,256 "/>
